@@ -7,6 +7,8 @@ public class SeleniumTest {
 	@Test
 	public void Selenium1() {
 		System.out.println("Selenium1");
+		System.out.println("branch develop");
+		
 	}
 	@Test
 	public void Selenium2() {
