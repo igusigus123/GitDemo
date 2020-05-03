@@ -12,7 +12,6 @@ public class SeleniumTest {
 	@Test
 	public void Selenium2() {
 		System.out.println("Selenium2");
-		System.out.println("Selenium GitX branch developX2");
 	}
 
 }
