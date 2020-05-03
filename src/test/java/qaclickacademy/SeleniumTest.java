@@ -7,8 +7,6 @@ public class SeleniumTest {
 	@Test
 	public void Selenium1() {
 		System.out.println("Zostaje samo selenium1");
-		
->>>>>>> developX
 	}
 	@Test
 	public void Selenium2() {
