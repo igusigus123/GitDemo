@@ -13,6 +13,10 @@ public class SeleniumTest {
 	public void Selenium2() {
 		System.out.println("Selenium2");
 		System.out.println("Selenium test2 branch developX");
+		System.out.println("Selenium test2 branch developX");
+		System.out.println("Selenium test2 branch developX");
+		System.out.println("Selenium test2 branch developX");
+		
 	}
 
 }
