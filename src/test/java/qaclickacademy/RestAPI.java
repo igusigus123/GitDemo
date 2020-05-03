@@ -12,5 +12,6 @@ public class RestAPI {
 	@Test
 	public void RestApi2() {
 		System.out.println("RestApi2");
+		System.out.println("RestApi with developX2");
 	}
 }
