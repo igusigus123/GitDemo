@@ -11,5 +11,7 @@ public class AppiumTest {
 	@Test
 	public void Appium2() {
 		System.out.println("Appium2");
+		System.out.println("develop branch changes4");
+		System.out.println("develop branch changes5");
 	}
 }
